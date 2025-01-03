@@ -1,0 +1,2 @@
+../Core/Src/interrupt.c:3:10:enter_critical_section	32	static,ignoring_inline_asm
+../Core/Src/interrupt.c:9:6:exit_critical_section	24	static,ignoring_inline_asm

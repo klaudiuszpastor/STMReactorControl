@@ -1,0 +1,4 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/blit.h:73:1:hagl_blit	1
+../hagl/src/hagl_image.c:51:1:tjpgd_data_reader	3
+../hagl/src/hagl_image.c:65:1:tjpgd_data_writer	1
+../hagl/src/hagl_image.c:86:1:hagl_load_image	4

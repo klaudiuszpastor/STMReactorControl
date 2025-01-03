@@ -1,0 +1,2 @@
+../Core/Src/interrupt.c:3:10:enter_critical_section	1
+../Core/Src/interrupt.c:9:6:exit_critical_section	1

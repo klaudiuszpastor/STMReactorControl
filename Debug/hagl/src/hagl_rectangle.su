@@ -1,0 +1,6 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/hline.h:94:1:hagl_draw_hline	32	static
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/vline.h:90:1:hagl_draw_vline	32	static
+../hagl/src/hagl_rectangle.c:47:1:hagl_draw_rectangle_xyxy	40	static
+../hagl/src/hagl_rectangle.c:85:1:hagl_fill_rectangle_xyxy	56	static
+../hagl/src/hagl_rectangle.c:132:1:hagl_draw_rounded_rectangle_xyxy	48	static
+../hagl/src/hagl_rectangle.c:206:1:hagl_fill_rounded_rectangle_xyxy	64	static

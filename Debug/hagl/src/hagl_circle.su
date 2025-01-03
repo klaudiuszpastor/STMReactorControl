@@ -1,0 +1,3 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/hline.h:94:1:hagl_draw_hline	32	static
+../hagl/src/hagl_circle.c:42:1:hagl_draw_circle	32	static
+../hagl/src/hagl_circle.c:79:1:hagl_fill_circle	40	static

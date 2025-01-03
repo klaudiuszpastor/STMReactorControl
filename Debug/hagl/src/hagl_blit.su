@@ -1,0 +1,2 @@
+../hagl/src/hagl_blit.c:43:1:hagl_blit_xy	64	static
+../hagl/src/hagl_blit.c:83:1:hagl_blit_xywh	72	static

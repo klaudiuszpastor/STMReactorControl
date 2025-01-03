@@ -1,0 +1,5 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/rectangle.h:126:1:hagl_fill_rectangle	1
+../Core/Src/main.c:68:5:__io_putchar	2
+../Core/Src/main.c:85:5:main	4
+../Core/Src/main.c:194:6:SystemClock_Config	4
+../Core/Src/main.c:248:6:Error_Handler	1

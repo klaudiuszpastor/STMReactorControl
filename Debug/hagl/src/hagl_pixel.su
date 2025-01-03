@@ -1,0 +1,2 @@
+../hagl/src/hagl_pixel.c:41:1:hagl_put_pixel	40	static
+../hagl/src/hagl_pixel.c:60:1:hagl_get_pixel	24	static

@@ -1,0 +1,2 @@
+../hagl/src/rgb565.c:40:1:rgb565	24	static
+../hagl/src/rgb565.c:51:1:rgb565_to_rgb888	32	static

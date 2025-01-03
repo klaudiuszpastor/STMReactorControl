@@ -1,0 +1,4 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/rectangle.h:126:1:hagl_fill_rectangle	32	static
+../Core/Src/hagl_hal.c:4:6:hagl_hal_put_pixel	24	static
+../Core/Src/hagl_hal.c:8:6:hagl_hal_init	16	static
+../Core/Src/hagl_hal.c:27:6:scaled_put_text	112	static

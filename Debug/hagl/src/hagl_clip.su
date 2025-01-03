@@ -1,0 +1,3 @@
+../hagl/src/hagl_clip.c:51:1:code	32	static
+../hagl/src/hagl_clip.c:70:1:hagl_clip_line	40	static
+../hagl/src/hagl_clip.c:127:1:hagl_set_clip	32	static

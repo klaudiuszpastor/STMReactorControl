@@ -1,0 +1,4 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/blit.h:73:1:hagl_blit	24	static
+../hagl/src/hagl_char.c:42:1:hagl_get_glyph	48	static
+../hagl/src/hagl_char.c:79:1:hagl_put_char	120	static
+../hagl/src/hagl_char.c:125:1:hagl_put_text	56	static

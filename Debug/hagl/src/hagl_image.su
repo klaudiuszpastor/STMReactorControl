@@ -1,0 +1,4 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/blit.h:73:1:hagl_blit	24	static
+../hagl/src/hagl_image.c:51:1:tjpgd_data_reader	32	static
+../hagl/src/hagl_image.c:65:1:tjpgd_data_writer	88	static
+../hagl/src/hagl_image.c:86:1:hagl_load_image	3280	static

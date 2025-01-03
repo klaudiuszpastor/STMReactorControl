@@ -1,0 +1,4 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/rgb888.h:53:19:min	2
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/rgb888.h:61:19:max	2
+../hagl/src/rgb888.c:44:1:rgb888_to_hsl	6
+../hagl/src/rgb888.c:92:1:rgb888_to_rgb565	1

@@ -1,0 +1,2 @@
+../hagl/src/fontx.c:46:1:fontx_meta	16	static
+../hagl/src/fontx.c:59:1:fontx_glyph	64	static

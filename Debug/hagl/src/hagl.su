@@ -1,0 +1,5 @@
+C:/Users/User/STM32CubeIDE/workspace_1.17.0/1/hagl/include/hagl/rectangle.h:126:1:hagl_fill_rectangle	32	static
+../hagl/src/hagl.c:53:1:hagl_clear	40	static
+../hagl/src/hagl.c:68:1:hagl_init	16	static
+../hagl/src/hagl.c:79:1:hagl_flush	16	static
+../hagl/src/hagl.c:88:1:hagl_close	16	static

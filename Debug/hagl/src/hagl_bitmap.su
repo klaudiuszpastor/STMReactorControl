@@ -1,0 +1,7 @@
+../hagl/src/hagl_bitmap.c:46:1:put_pixel	32	static
+../hagl/src/hagl_bitmap.c:55:1:get_pixel	24	static
+../hagl/src/hagl_bitmap.c:62:1:hline	40	static
+../hagl/src/hagl_bitmap.c:73:1:vline	40	static
+../hagl/src/hagl_bitmap.c:89:1:blit	64	static
+../hagl/src/hagl_bitmap.c:157:1:scale_blit	80	static
+../hagl/src/hagl_bitmap.c:229:1:hagl_bitmap_init	24	static
